@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    text-decoration: none;
+}
+header{
+    padding: 30px;
+    background-color:yellow;
+}
+.header-div{
+    margin: 0 0 0 80%;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.section-1{
+    background-image: url(../photo/Whats1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 350px;
+}
+.section-1 h2{
+    font-size: 40px;
+}
+.section-1 button{
+    border-radius: 40px;
+    padding: 15px 25px;
+}
+.section-1 p{
+    font-size: 14px;
+}
+                              /* section-2 */
+    
+ .section-2{
+     width: 100%;
+     background-color:white;
+     padding: 100px;
+ }
+.section-2 h4{
+    font-size: 35px;
+    padding: 0 0 15px 20px;
+}
+                             /*section-3*/
+                            
+.section-3{
+    background-color: #fac769;
+    padding: 55px;
+}                            
+.section-3 h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+                             /*section-4*/
+                             
+.section-4{
+    padding: 250px 250px 0 250px;
+   
+}
+.section-4 h3{
+    font-size: 35px;
+    margin:-215px 0 40px -160px;
+}
+.section-4-anadiv{
+    display: flex;
+}
+.pic-1{
+    background-image: url(../photo/03.jpg);
+    background-size: cover;
+    padding: 70px;
+}
+.txt-1{
+    background-color:#fac769; 
+    height: 40%;
+    padding: 30px;
+    width: 200px;
+}
+.section-4-anadiv h6{
+    font-size: 15px;
+}
+.section-4-anadiv p{
+    color: white;
+}
+.section-4-anadiv button{
+    background-color:#fac769;
+    padding: 10px;
+    border-radius: 20px;
+}
+.pic-2{
+    background-image: url(../photo/04.jpg);
+    background-size: cover;
+    padding: 70px;
+    margin: 0 30px;
+}
+.txt-2{
+    background-color:#fac769; 
+    margin: 0 30px;
+    height: 40%;
+    padding: 30px;
+    width: 200px;
+}
+.pic-3{
+    background-image: url(../photo/05.jpg);
+    background-size: cover;
+    padding: 70px;
+}
+.txt-3{
+    background-color:#fac769;
+    height: 40%;
+    padding: 30px;
+    width: 200px;
+}
+
+
+                               /*section-5*/
+
+.section-5{
+    padding: 100px; 
+}
+.section-5 .section-5-div{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 20px; 
+    flex-wrap: wrap;
+}
+.section-5 img{
+    width: 270px;
+    padding: 0 15px 15px 0;
+    height: 200px; 
+}
+
+
+                               /*section-6*/
+
+
+.section-6{
+    padding:50px;
+    background-color: #fac769;
+    display: flex;
+    justify-content:space-between; 
+    
+}
+.section-6 h6{
+    color: white;
+    font-size: 15px;
+    margin: 20px 30px 0 30px;
+}
+
+.section-6 h2{
+    color: white;
+    font-size:30px;
+    margin: 20px 20px 0 30px;
+}
+.section-6 button{
+    border-radius: 20px;
+    padding: 10px 25px;
+}
+
+                               /*footer*/
+
+
+.footer{
+    padding:30px;
+    background-color: white;
+    text-align: center;
+}
